@@ -1,0 +1,39 @@
+<h1>Решение задач на JavaScript</h1>
+<p>Задачи с сайта <a href="https://www.codewars.com/">codewars.com</a>, Я.Контекста. Порядок хаотичный.</p>
+<ol>
+    <li><a href="https://github.com/allicen/JS-task-solution/6-balanced-number">Balanced Number</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/7-hashtags-list">Список хештегов</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/8-unique-list-of-hashtag">Уникальный список хештегов</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/9-phone-book">Телефонная книга</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/10-simple-fun">Simple Fun #303: Prime Product</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/11-the-queen-on-the-chessboard">The queen on the chessboard</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/12-pi-approximation">PI approximation</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/14-digital-cypher-vol3-missing-key">Digital cypher vol 3 - missing key</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/15-maze-runner">Maze Runner</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/16-pokemon-damage-calculator">Pokemon Damage Calculator</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/17-killer-garage-door">Killer Garage Door</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/19-function-composition">Function composition</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/21-reusable-memoisation">Reusable memoisation</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/22-select-items-in-the-collection">Выборка элементов коллекции</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/25-this-is-an-other-problem">Выборка элементов коллекции</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/26-the-sortreloaded-method">The sortReloaded() method</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/27-implement-brute-force-protection">Implement brute force protection</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/29-garbage-bomb">Simple Fun #304: Garbage Bomb</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/30-snakes-and-ladders">Snakes and Ladders</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/31-ipv6-address-validation-and-contraction">IPv6 address validation and contraction</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/33-merge-k-sorted-lists">Слияние k сортированных списков</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/34-anagrams">Анаграммы</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/36-helloboard-8">HelloBoard 8</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/38-city-of-thieves">Город воров</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/39-greed-is-good">Greed is Good</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/40-bird-mountain">Bird Mountain</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/43-phone-directory">Phone Directory</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/44-lie-detector">Детектор лжи</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/45-removing-duplicates">Удаление дубликатов</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/46-book-of-heroes">Книга героев</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/51-node-js-async-io">Node.js Async I/O</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/52-phone-numbers">Phone numbers</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/54-directions-reduction">Directions Reduction</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/56-form-validation">Валидация HTML-формы</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/57-sudoku-solution-validator">Sudoku Solution Validator</a></li>
+</ol>
