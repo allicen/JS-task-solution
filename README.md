@@ -15,7 +15,7 @@
     <li><a href="https://github.com/allicen/JS-task-solution/tree/master/19-function-composition">Function composition</a></li>
     <li><a href="https://github.com/allicen/JS-task-solution/tree/master/21-reusable-memoisation">Reusable memoisation</a></li>
     <li><a href="https://github.com/allicen/JS-task-solution/tree/master/22-select-items-in-the-collection">Выборка элементов коллекции</a></li>
-    <li><a href="https://github.com/allicen/JS-task-solution/tree/master/25-this-is-an-other-problem">Выборка элементов коллекции</a></li>
+    <li><a href="https://github.com/allicen/JS-task-solution/tree/master/25-this-is-an-other-problem">"this" is an other problem</a></li>
     <li><a href="https://github.com/allicen/JS-task-solution/tree/master/26-the-sortreloaded-method">The sortReloaded() method</a></li>
     <li><a href="https://github.com/allicen/JS-task-solution/tree/master/27-implement-brute-force-protection">Implement brute force protection</a></li>
     <li><a href="https://github.com/allicen/JS-task-solution/tree/master/29-garbage-bomb">Simple Fun #304: Garbage Bomb</a></li>
